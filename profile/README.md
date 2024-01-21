@@ -33,6 +33,10 @@ Observação: Se a pessoa quiser cancelar a inscrição do evento, dar um prazo 
 
 - Mapa mental das [ideias](https://miro.com/app/board/uXjVN3F-IB0=/?share_link_id=916369283026)
 
+#### Gustavo
+
+- Mapa mental das [ideias](https://miro.com/app/board/uXjVN4fKbj4=/?share_link_id=542289396261)
+
 ## Desenvolvimento
 
 Coming soon...
