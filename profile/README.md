@@ -2,11 +2,9 @@
 
 ## Definições do projeto
 
-### Ideias iniciais 
-
 Sugestões de funcionalidades no website feitas pelos membros da equipe
 
-#### Richard
+### Richard
 
 - Cadastro de clientes e funcionários
 - Inscrição no evento feito pela companhia de dança ou pelo dançarino autônomo
@@ -18,7 +16,7 @@ Sugestões de funcionalidades no website feitas pelos membros da equipe
 - Sistema de feedback 
 - Notificar caso o evento seja cancelado
 
-#### Saullo 
+### Saullo 
 
 - Registro de clientes da plataforma e funcionários do festival.
 - Inscrição em eventos por parte do diretor da companhia de dança ou pelo dançarino autônomo.
@@ -29,13 +27,61 @@ Sugestões de funcionalidades no website feitas pelos membros da equipe
 
 Observação: Se a pessoa quiser cancelar a inscrição do evento, dar um prazo pra ela de até um dia antes do evento para ocorrer a devolução do dinheiro. Caso já tenha pago, mas apareceu outro evento que queira ir e desista do primeiro, mantenha os dados e a pessoa deve pagar a diferença do valor dos eventos.
 
-#### Guilherme
+### Guilherme
 
 - Mapa mental das [ideias](https://miro.com/app/board/uXjVN3F-IB0=/?share_link_id=916369283026)
 
-#### Gustavo
+### Gustavo
 
 - Mapa mental das [ideias](https://miro.com/app/board/uXjVN4fKbj4=/?share_link_id=542289396261)
+
+### Leonardo
+
+**Registro de usuários**
+
+- Funcionário do festival
+- Diretor de companhia de dança
+- Coreógrafo da companhia
+- Dançarino (pode ser autônomo)
+
+**Companhias**
+
+- Apenas um diretor de companhia poderá registrar uma nova
+- A companhia possui diversos coreógrafos e dançarinos
+- Os coreógrafos e dançarinos devem ser convidados por e-mail pelo diretor
+- Para evitar criação desenfreada de companhias, há uma taxa inicial a ser paga (opcional)
+
+**Cartão Fidelidade**
+
+- Todos usuários, exceto funcionário, possuem o cartão fidelidade
+- O cartão é físico e possui um Qr Code que possui um token para identificar a pessoa
+- O check-in no evento (registrar a entrada) ocorre através da leitura do qr code do cartão
+- Em caso de perda do cartão, é gerado um novo token
+- Possui saldo para consumir serviços presenciais
+
+**Criação de Eventos e Catalogação**
+
+- Prerrogativa dos funcionários
+- Eventos ocorrem em determinado local e horário
+- Possuem uma identificação
+- Apresentam regulamento para inscrição
+- Eventos de dança podem ser SOLO, DUO, TRIO, EQUIPE.
+- Podem possuir vencedor (companhia/dançarino)
+- Todos possuem acesso ao catálogo de eventos
+
+**Inscrição virtual em eventos**
+
+- Realizada pelo diretor ou dançarino autônomo
+- Dançarino autônomo só poderá se inscrever em eventos solos
+- Diretor deverá inscrever o coreógrafo e dançarinos da sua companhia
+- Pagamento das inscrições pelo diretor ou dançarino autônomo (opcional)
+
+**Inscrição presencial on-time**
+
+- Eventos que não possuem limite de inscrições
+- Leitura composta: inicia-se uma sessão no leitor em que lê todos os integrantes da companhia
+- Leitura simples: dançarino autônomo (dança solo)
+
 
 ## Desenvolvimento
 
