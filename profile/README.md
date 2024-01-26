@@ -85,7 +85,7 @@ Observação: Se a pessoa quiser cancelar a inscrição do evento, dar um prazo 
 
 ## Desenvolvimento
 
-Coming soon...
+[+] Projeto da Api Backend criado com a parte da autenticação já montada (26/01)
 
 ## Resultado final
 
