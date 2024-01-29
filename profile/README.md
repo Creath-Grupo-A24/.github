@@ -92,6 +92,8 @@ Observação: Se a pessoa quiser cancelar a inscrição do evento, dar um prazo 
 [+] Upload do regulamento para o evento (27/01) <br>
 [+] Criação da entidade inscrição e endpoint POST (28/01) <br>
 [+] Correção da autenticação do usuário (28/01) <br>
+[+] Download do regulmento do evento (29/01) <br>
+[+] Retorno paginado dos eventos (29/01) <br> 
 
 ## Resultado final
 
