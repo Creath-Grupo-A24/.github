@@ -85,7 +85,13 @@ Observação: Se a pessoa quiser cancelar a inscrição do evento, dar um prazo 
 
 ## Desenvolvimento
 
-[+] Projeto da Api Backend criado com a parte da autenticação já montada (26/01)
+### API BACKEND
+
+[+] Projeto criado com a parte da autenticação já montada (26/01) <br>
+[+] Criação da entidade evento e endpoint POST (26/01) <br>
+[+] Upload do regulamento para o evento (27/01) <br>
+[+] Criação da entidade inscrição e endpoint POST (28/01) <br>
+[+] Correção da autenticação do usuário (28/01) <br>
 
 ## Resultado final
 
