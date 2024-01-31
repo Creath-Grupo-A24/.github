@@ -94,6 +94,10 @@ Observação: Se a pessoa quiser cancelar a inscrição do evento, dar um prazo 
 [+] Correção da autenticação do usuário (28/01) <br>
 [+] Download do regulmento do evento (29/01) <br>
 [+] Retorno paginado dos eventos (29/01) <br> 
+[+] Inscrição da companhia em evento (30/01) <br>
+[+] Correção das validações do usuário (30/01) <br>
+[+] Criação de companhia e convite (30/01) <br>
+
 
 ## Resultado final
 
