@@ -97,6 +97,7 @@ Observação: Se a pessoa quiser cancelar a inscrição do evento, dar um prazo 
 [+] Inscrição da companhia em evento (30/01) <br>
 [+] Correção das validações do usuário (30/01) <br>
 [+] Criação de companhia e convite (30/01) <br>
+[+] Finalização da lógica de convites (01/02) <br>
 
 
 ## Resultado final
