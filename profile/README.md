@@ -87,18 +87,20 @@ Observação: Se a pessoa quiser cancelar a inscrição do evento, dar um prazo 
 
 ### API BACKEND
 
-[+] Projeto criado com a parte da autenticação já montada (26/01) <br>
-[+] Criação da entidade evento e endpoint POST (26/01) <br>
-[+] Upload do regulamento para o evento (27/01) <br>
-[+] Criação da entidade inscrição e endpoint POST (28/01) <br>
-[+] Correção da autenticação do usuário (28/01) <br>
-[+] Download do regulmento do evento (29/01) <br>
-[+] Retorno paginado dos eventos (29/01) <br> 
-[+] Inscrição da companhia em evento (30/01) <br>
-[+] Correção das validações do usuário (30/01) <br>
-[+] Criação de companhia e convite (30/01) <br>
-[+] Retorno das inscrições de atração no evento (GET) (31/01) <br>
-[+] Finalização da lógica de convites (01/02) <br>
+**[+]** Projeto criado com a parte da autenticação já montada (26/01) <br>
+**[+]** Criação da entidade evento e endpoint POST (26/01) <br>
+**[+]** Upload do regulamento para o evento (27/01) <br>
+**[+]** Criação da entidade inscrição e endpoint POST (28/01) <br>
+**[+]** Correção da autenticação do usuário (28/01) <br>
+**[+]** Download do regulmento do evento (29/01) <br>
+**[+]** Retorno paginado dos eventos (29/01) <br> 
+**[+]** Inscrição da companhia em evento (30/01) <br>
+**[+]** Correção das validações do usuário (30/01) <br>
+**[+]** Criação de companhia e convite (30/01) <br>
+**[+]** Retorno das inscrições de atração no evento (GET) (31/01) <br>
+**[+]** Finalização da lógica de convites (01/02) <br>
+**[+]** Correções nos endpoints (03/02) <br>
+**[+]** Adicionado os endpoints getRoles e getCategories (03/02) <br>
 
 
 ## Resultado final
