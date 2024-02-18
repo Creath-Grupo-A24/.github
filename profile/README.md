@@ -122,15 +122,15 @@ Observação: Se a pessoa quiser cancelar a inscrição do evento, dar um prazo 
 - Tecnologias: ReactJS
 
 **[+]** Projeto criado com o esqueleto de algumas páginas (29/01) <br>
-**[+]** Consumo de alguns endpoints da API (30/01 - 05/02)
-**[+]** Mudança no estilo da página principal (05/02)
-**[+]** Refatoração no código (09/02)
-**[+]** Refatoração no código (10/02)
-**[+]** Melhoras no design (13/02)
-**[+]** Correções e melhoras no design (14/02)
-**[+]** Inscrição em eventos (15/02)
-**[+]** Refatoração no código (16/02)
-**[+]** Correções na inscrição em eventos (17/02)
+**[+]** Consumo de alguns endpoints da API (30/01 - 05/02) <br>
+**[+]** Mudança no estilo da página principal (05/02) <br>
+**[+]** Refatoração no código (09/02) <br>
+**[+]** Refatoração no código (10/02) <br>
+**[+]** Melhoras no design (13/02) <br>
+**[+]** Correções e melhoras no design (14/02) <br>
+**[+]** Inscrição em eventos (15/02) <br>
+**[+]** Refatoração no código (16/02) <br>
+**[+]** Correções na inscrição em eventos (17/02) <br>
 
 ## Resultado final
 
