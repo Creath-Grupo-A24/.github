@@ -1,10 +1,20 @@
 # 💃🏻🕺🏽 DanceHub - Um hub de eventos de dança
 
+## Membros
+
+- ~~Richard (Product Owner)~~
+- Leonardo (Tech Lead/Scrum Master)
+- Genilson (Dev)
+- Guilherme (Dev)
+- Gustavo (Dev)
+- Saullo (QA)
+- Victor (UX Design)
+
 ## Definições do projeto
 
 Sugestões de funcionalidades no website feitas pelos membros da equipe
 
-### Richard
+### ~~Richard~~
 
 - Cadastro de clientes e funcionários
 - Inscrição no evento feito pela companhia de dança ou pelo dançarino autônomo
@@ -16,7 +26,7 @@ Sugestões de funcionalidades no website feitas pelos membros da equipe
 - Sistema de feedback 
 - Notificar caso o evento seja cancelado
 
-### Saullo 
+### Saullo
 
 - Registro de clientes da plataforma e funcionários do festival.
 - Inscrição em eventos por parte do diretor da companhia de dança ou pelo dançarino autônomo.
