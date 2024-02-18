@@ -87,7 +87,9 @@ Observação: Se a pessoa quiser cancelar a inscrição do evento, dar um prazo 
 
 ### API BACKEND
 
-**[+]** Projeto criado com a parte da autenticação já montada (26/01) <br>
+- Tecnologias: Spring Data JPA, Spring Security, PostgreSQL.
+
+**[+]** Projeto criado com a autenticação de usuários feita (26/01) <br>
 **[+]** Criação da entidade evento e endpoint POST (26/01) <br>
 **[+]** Upload do regulamento para o evento (27/01) <br>
 **[+]** Criação da entidade inscrição e endpoint POST (28/01) <br>
@@ -99,9 +101,26 @@ Observação: Se a pessoa quiser cancelar a inscrição do evento, dar um prazo 
 **[+]** Criação de companhia e convite (30/01) <br>
 **[+]** Retorno das inscrições de atração no evento (GET) (31/01) <br>
 **[+]** Finalização da lógica de convites (01/02) <br>
-**[+]** Correções nos endpoints (03/02) <br>
+**[+]** Correções dos endpoints (03/02) <br>
 **[+]** Adicionado os endpoints getRoles e getCategories (03/02) <br>
+**[+]** Correções gerais (04/02 - 14/02) <br>
+**[+]** Retorno dos usuários da companhia (14/02) <br>
+**[+]** Correções gerais (15/02 - 17/02) <br>
 
+### FRONTEND
+
+- Tecnologias: ReactJS
+
+**[+]** Projeto criado com o esqueleto de algumas páginas (29/01) <br>
+**[+]** Consumo de alguns endpoints da API (30/01 - 05/02)
+**[+]** Mudança no estilo da página principal (05/02)
+**[+]** Refatoração no código (09/02)
+**[+]** Refatoração no código (10/02)
+**[+]** Melhoras no design (13/02)
+**[+]** Correções e melhoras no design (14/02)
+**[+]** Inscrição em eventos (15/02)
+**[+]** Refatoração no código (16/02)
+**[+]** Correções na inscrição em eventos (17/02)
 
 ## Resultado final
 
