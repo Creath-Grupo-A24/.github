@@ -134,8 +134,8 @@ Observação: Se a pessoa quiser cancelar a inscrição do evento, dar um prazo 
 
 ## Resultado final
 
-O MVP foi entregue com sucesso :D
-Tivemos um ótimo feedback dos mentores.
+O MVP foi entregue com sucesso :D <br>
+Tivemos um ótimo feedback dos mentores. <br>
 Para executar o que foi feito, basta configurar as credenciais de um DB e de um e-mail na application.yaml (dancehub-api).
 
 
