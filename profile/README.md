@@ -47,21 +47,21 @@ Observação: Se a pessoa quiser cancelar a inscrição do evento, dar um prazo 
 
 ### Leonardo
 
-**Registro de usuários**
+**Registro de usuários** (beta version)
 
 - Funcionário do festival
 - Diretor de companhia de dança
 - Coreógrafo da companhia
 - Dançarino (pode ser autônomo)
 
-**Companhias**
+**Companhias** (beta version)
 
 - Apenas um diretor de companhia poderá registrar uma nova
 - A companhia possui diversos coreógrafos e dançarinos
 - Os coreógrafos e dançarinos devem ser convidados por e-mail pelo diretor
 - Para evitar criação desenfreada de companhias, há uma taxa inicial a ser paga (opcional)
 
-**Cartão Fidelidade**
+**Cartão Fidelidade** (v2?)
 
 - Todos usuários, exceto funcionário, possuem o cartão fidelidade
 - O cartão é físico e possui um Qr Code que possui um token para identificar a pessoa
@@ -69,7 +69,7 @@ Observação: Se a pessoa quiser cancelar a inscrição do evento, dar um prazo 
 - Em caso de perda do cartão, é gerado um novo token
 - Possui saldo para consumir serviços presenciais
 
-**Criação de Eventos e Catalogação**
+**Criação de Eventos e Catalogação** (beta version)
 
 - Prerrogativa dos funcionários
 - Eventos ocorrem em determinado local e horário
@@ -79,14 +79,14 @@ Observação: Se a pessoa quiser cancelar a inscrição do evento, dar um prazo 
 - Podem possuir vencedor (companhia/dançarino)
 - Todos possuem acesso ao catálogo de eventos
 
-**Inscrição virtual em eventos**
+**Inscrição virtual em eventos** (beta version)
 
 - Realizada pelo diretor ou dançarino autônomo
 - Dançarino autônomo só poderá se inscrever em eventos solos
 - Diretor deverá inscrever o coreógrafo e dançarinos da sua companhia
 - Pagamento das inscrições pelo diretor ou dançarino autônomo (opcional)
 
-**Inscrição presencial on-time**
+**Inscrição presencial on-time** (v2?)
 
 - Eventos que não possuem limite de inscrições
 - Leitura composta: inicia-se uma sessão no leitor em que lê todos os integrantes da companhia
