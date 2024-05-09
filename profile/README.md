@@ -8,7 +8,7 @@
 - Guilherme (Dev)
 - Gustavo (Dev)
 - Saullo (QA)
-- Victor (UX Design)
+- ~~Victor (UX Design)~~
 
 ## Definições do projeto
 
